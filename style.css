@@ -1,0 +1,14 @@
+.center {
+    border: 5px solid;
+    margin: auto;
+    width: 20%;
+    padding: 10px;
+  }
+
+  button {
+    padding: 30px 40px; /* top/bottom padding: 10px, left/right padding: 20px */
+ }
+
+ body{
+    background-color: rgb(196, 196, 149);
+ }
